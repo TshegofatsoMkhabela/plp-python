@@ -1,0 +1,2 @@
+# Ignore metadata.csv in the data folder
+data/metadata.csv
