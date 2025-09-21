@@ -22,7 +22,7 @@ mv metadata.csv data/
 
 ## File Info
 
-- **Size**: ~200MB
+- **Size**: ~1.65GB
 - **Records**: 1M+ COVID-19 research papers
 - **Columns**: title, abstract, authors, publish_time, etc.
 
